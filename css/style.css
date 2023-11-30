@@ -28,6 +28,31 @@ body{
 }
 
 .header-area{
-    margin-top: 140px;
-    margin-bottom: 140px;
+    background-image: url("../images/header-bg.png");
 }
+
+.header-top-content h2 {
+    font-weight: 400;
+    font-size: 42px;
+}
+
+.header-top-content h1 {
+    color: #ec4c7a;
+    font-size: 67px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.header-top-content p {
+    margin-bottom: 20px;
+}
+
+.hireme-button {
+    color: #fff;
+    padding: 5px 20px 5px  20px;
+    background-image: linear-gradient(to right, #FC7C52, #FFAF26);
+    border: none;
+    border-radius: 5%;
+    text-decoration: none;
+}
+
