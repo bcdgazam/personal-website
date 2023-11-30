@@ -21,10 +21,13 @@ body{
     width: 100%;
 }
 
-.header-left-column{
-    height: 100vh;
+.header-leftf-content{
     display: flex;
     align-items: center; 
     justify-content: center; 
 }
 
+.header-area{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
