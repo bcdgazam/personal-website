@@ -29,6 +29,8 @@ body{
 
 .header-area{
     background-image: url("../images/header-bg.png");
+    height: 1060px;
+    display: flex;
 }
 
 .header-top-content h2 {
