@@ -72,3 +72,31 @@ p{
     height: 860px;
     display: flex;
 }
+
+.latest-work-area{
+    background-image: url("../images/latest-work-bg.png");
+    height: 550px;
+}
+
+.latest-work-area h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.work-images img {
+    width: 380px;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.work-images {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.footer-area{
+    background-image: url(../images/footer-bg.png);
+    text-align: center;
+}
