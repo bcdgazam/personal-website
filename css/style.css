@@ -18,14 +18,16 @@ p{
     margin: 0 auto;
 }
 
-.col-md-6{
-    width: 45%;
-    float: left;
-    padding: 5%;
+.left-column {
+    margin-right: 30px;
 }
 
-.header-right-image img {
-    width: 100%;
+.right-column {
+    margin-left: 30px;
+}
+
+.image-size img {
+    width: 580px;
 }
 
 .header-leftf-content{
@@ -67,6 +69,6 @@ p{
 
 .biography-area{
     background-image: url("../images/biography-bg.png");
-    height: 1060px;
+    height: 860px;
     display: flex;
 }
