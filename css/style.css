@@ -100,3 +100,34 @@ p{
     background-image: url(../images/footer-bg.png);
     text-align: center;
 }
+
+.header h1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.client-name p {
+    margin-bottom: 100px;
+}
+
+.client-testimonials p {
+    margin-bottom: 100px;
+}
+
+.contact-details {
+    margin-bottom: 150px;
+    background-image: linear-gradient(to right, #ec5095, #ed4b6e);
+    padding: 50px 80px 50px 80px;
+    border-radius: 10px;
+    display: inline-block;
+    color: #fff;
+}
+
+.contact-details p {
+    margin-top: 0;
+}
+
+.client-testimonials p {
+    width: 40%;
+    display: inline-block;
+}
