@@ -7,6 +7,12 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 25px;
+}
+
 .container{
     width: 1200px;
     margin: 0 auto;
@@ -15,6 +21,7 @@ body{
 .col-md-6{
     width: 45%;
     float: left;
+    padding: 5%;
 }
 
 .header-right-image img {
@@ -34,7 +41,7 @@ body{
 }
 
 .header-top-content h2 {
-    font-weight: 400;
+    font-weight: 600;
     font-size: 42px;
 }
 
@@ -42,11 +49,11 @@ body{
     color: #ec4c7a;
     font-size: 67px;
     font-weight: 700;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
-.header-top-content p {
-    margin-bottom: 20px;
+.header-top-content h2 {
+    margin: 0;
 }
 
 .hireme-button {
@@ -58,3 +65,8 @@ body{
     text-decoration: none;
 }
 
+.biography-area{
+    background-image: url("../images/biography-bg.png");
+    height: 1060px;
+    display: flex;
+}
